@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Mon">#FC5B92</color>
+    <color name="Sun">#F3776E</color>
+    <color name="Tue">#DE72F0</color>
+    <color name="Wed">#A778FC</color>
+    <color name="Thu">#697BE0</color>
+    <color name="Fri">#6CB7F3</color>
+    <color name="Sat">#71CAF3</color>
+    <color name="head">#F7383E</color>
+    <color name="border">#FF0404</color>
+    <color name="green">#4CAF50</color>
+    <color name="splash">#85E4C6</color>
+</resources>
